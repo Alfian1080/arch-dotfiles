@@ -8,4 +8,4 @@ Prerequisites
 cd yay
 makepkg -si`
 
-`yay -S hyprland thunar thunar-volman foot ranger waybar git wget curl amixer brightnessctl ttf-jetbrains-mono-nerd`
+`yay -S hyprland thunar thunar-volman foot ranger waybar git wget curl amixer brightnessctl ttf-jetbrains-mono-nerd neovim`
